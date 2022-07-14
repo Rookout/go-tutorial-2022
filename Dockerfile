@@ -23,4 +23,6 @@ WORKDIR /app
 COPY --from=builder /app/main ./
 COPY --from=builder /app/static ./static
 
+COPY .git /.git
+
 CMD ["./main"]
