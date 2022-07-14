@@ -1,3 +1,5 @@
+github.com/Rookout/GoSDK v0.1.13-stub h1:FTRukiwv/6lWfhfvZgM8etbhVH+ZkLIN9zUMIPGxHtA=
+github.com/Rookout/GoSDK v0.1.13-stub/go.mod h1:5Gn4tldWZMyhWM1u5x4klmwk52U6Ik9oGj8Xj2aRlnc=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

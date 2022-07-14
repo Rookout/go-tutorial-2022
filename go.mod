@@ -3,6 +3,7 @@ module github.com/Rookout/go-tutorial-2022
 go 1.18
 
 require (
+	github.com/Rookout/GoSDK v0.1.13-stub
 	github.com/labstack/echo/v4 v4.7.2
 	github.com/lithammer/shortuuid v3.0.0+incompatible
 )
